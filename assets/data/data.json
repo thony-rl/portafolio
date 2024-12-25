@@ -1,30 +1,30 @@
 {
-    "title": "Thomas A. Anderson (Neo) | Portafolio",
+    "title": "Anthony Rodriguez (Thony-rl) | Portafolio",
     "description": "Soy Neo, posiblemente el mejor programador de la historia.",
     "image": "/avatar.jpg",
     "avatar": "/avatar.jpg",
-    "name": "Thomas A. Anderson (Neo)",
-    "skill": "Programador, hacker y el Elegido",
-    "location": "Matrix y el mundo real",
+    "name": "Anthony Rodriguez (Thony-rl)",
+    "skill": "Programador",
+    "location": "Perú, La Libertad, Otuzco",
     "media": {
-        "email": "neo@metacortex.com",
+        "email": "anthony.rodriguezloyola@gmail.com",
         "cv": "/data/cv.pdf",
-        "github": "https://github.com/thomasanderson",
-        "likedin": "https://linkedin.com/in/thomasanderson"
+        "github": "https://github.com/thony-rl",
+        "likedin": "https://linkedin.com/in/anthony-rl"
     },
-    "about": "Soy un programador inquieto con una doble vida, ya que trabajo en una prestigiosa empresa de software pero también he cometido todos los crímenes informáticos que existen. Tengo la sensación de que nada es lo que parece ser.",
+    "about": "Hola, soy Ingeniero de Sistemas, apasionado por la programación backend. Comprometido con el desarrollo de aplicaciones eficientes y escalables.",
     "technologies": [
         {
             "icon": "devicon-devicon-plain",
-            "name": "Binario"
+            "name": "Java"
         },
         {
             "icon": "devicon-devicon-plain",
-            "name": "Ensamblador"
+            "name": "Javascript"
         },
         {
             "icon": "devicon-devicon-plain",
-            "name": "COBOL"
+            "name": "C++"
         },
         {
             "icon": "devicon-c-plain",
@@ -38,38 +38,49 @@
     "experience": [
         {
             "icon": "terminal",
-            "title": "Metacortex",
-            "subtitle": "Programador",
-            "description": "Programo software respetable desde un cubículo.",
-            "date": "1999"
+            "title": "Municipalidad Provincial de Otuzco",
+            "subtitle": "Personal de Apoyo",
+            "description": "Apoyo en la Sub Gerencia de Tecnologías de la Información y Comunicaciones.",
+            "date": "Diciembre 2022"
         },
         {
             "icon": "rabbit",
-            "title": "Nebuchadnezzar",
-            "subtitle": "El Elegido",
-            "description": "Me encargo de salvar el mundo.",
-            "date": "1999 - Actualidad"
+            "title": "CONNEXT E.I.R.L",
+            "subtitle": "Especialista en Información y Redes",
+            "description": "Realicé actividades de servicio técnico formando parte del área de Informática y Tecnologías de la Información.",
+            "date": "Enero 2023 - Octubre 2023"
+        },
+        {
+            "icon": "terminal",
+            "title": "Municipalidad Distrital de Agallpampa",
+            "subtitle": "Especialista en Tecnologías de la Información y Comunicaciones",
+            "description": "Me encargué de activivdades y proyectos en el área de Tecnologías de la Información y Comunicaciones.",
+            "date": "Noviembre 2023 - Junio 2024"
         }
     ],
     "projects": [
         {
             "icon": "bar-chart-4",
-            "title": "Software random",
-            "subtitle": "Software propiedad de Metacortex",
-            "description": "Herramienta para hacer rico a otras personas.",
+            "title": "Página Simple",
+            "subtitle": "Software web para aprender conceptos básicos",
+            "description": "Una página simple, hecha para aprender los usos y prácticas de HTML, CSS y Javascript.",
             "technologies": [
                 {
                     "icon": "devicon-python-plain",
-                    "name": "Python"
+                    "name": "HTML"
                 },
                 {
                     "icon": "devicon-django-plain",
-                    "name": "Django"
+                    "name": "CSS"
+                },
+                {
+                    "icon": "devicon-django-plain",
+                    "name": "Javascript"
                 }
             ],
             "image": "/project_1.jpg",
-            "url": "https://matrix.fandom.com/wiki/MetaCortex",
-            "github": "https://github.com/thomasanderson"
+            "url": "-----",
+            "github": "https://github.com/thony-rl/Simple-Page-Layout"
         },
         {
             "icon": "bug-off",
@@ -98,10 +109,10 @@
         },
         {
             "icon": "graduation-cap",
-            "title": "Owen Patterson High",
-            "subtitle": "Otra escuela",
+            "title": "Ingeniería de Sistemas",
+            "subtitle": "Universidad Cesar Vallejo",
             "description": "Aprendí más cosas.",
-            "date": "Indeterminado",
+            "date": "Enero 2018 - Julio 2023",
             "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
         }
     ],
